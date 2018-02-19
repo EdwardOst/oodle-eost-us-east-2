@@ -469,7 +469,6 @@
     <migrationTask xmi:id="_-XIId6nuEeeEkOIrnvwsGA" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_-XIIeKnuEeeEkOIrnvwsGA" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_-XIIeanuEeeEkOIrnvwsGA" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_-XIIeqnuEeeEkOIrnvwsGA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_-XIIe6nuEeeEkOIrnvwsGA" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_-XIIfKnuEeeEkOIrnvwsGA" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="ok"/>
     <migrationTask xmi:id="_-XIIfanuEeeEkOIrnvwsGA" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -678,6 +677,7 @@
     <migrationTask xmi:id="_-XIvn6nuEeeEkOIrnvwsGA" id="org.talend.repository.model.migration.ChangeMSSQLDBVersionMigrationTask" breaks="6.2.0" version="6.3.0" status="noimpact"/>
     <migrationTask xmi:id="_-XIvoKnuEeeEkOIrnvwsGA" id="org.talend.repository.model.migration.ChangeTypeMappingForRedshift" breaks="6.3.0" version="6.3.1" status="noimpact"/>
     <migrationTask xmi:id="_-XIvoanuEeeEkOIrnvwsGA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_LmwksBWgEeisRu4am1c82w" id="org.talend.repository.model.migration.AddJavaVersionMigrationTask" breaks="6.3.1" version="6.4.0" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_6af6YqnuEeeEkOIrnvwsGA" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_9u64gKnuEeeEkOIrnvwsGA" login="ankush.deshpande@cognizant.com" firstName="ankush" lastName="deshpande" type="MDM" additionnalData="{}"/>
